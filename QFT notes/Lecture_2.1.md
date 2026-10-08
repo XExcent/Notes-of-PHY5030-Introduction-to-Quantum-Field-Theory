@@ -27,7 +27,7 @@ source: "课堂板书"
 
 ## 板书整理
 
-![[2.1/1.jpg]]
+![[Picture/2.1/1.jpg]]
 
 ### 上节回顾
 
@@ -55,7 +55,7 @@ $$
 V^{\mu}=g^{\mu\nu}V_{\nu}.
 $$
 
-![[2.1/2.jpg]]
+![[Picture/2.1/2.jpg]]
 
 ### 混合指标与逆矩阵
 
@@ -104,7 +104,7 @@ $$
 (\det\Lambda)^2=1.
 $$
 
-![[2.1/3.jpg]]
+![[Picture/2.1/3.jpg]]
 
 因此
 
@@ -167,7 +167,7 @@ $$
 \text{non-orthochronous}.
 $$
 
-![[2.1/4.jpg]]
+![[Picture/2.1/4.jpg]]
 
 ### 正常洛伦兹群
 
@@ -177,7 +177,7 @@ $$
 SO^+(3,1).
 $$
 
-![[2.1/5.jpg]]
+![[Picture/2.1/5.jpg]]
 
 该子群是一个连续的 Lie group。若
 
@@ -201,7 +201,7 @@ $O(3,1)$ 保持闵可夫斯基度规，但可能同时改变空间取向或时�
 
 ## 板书整理
 
-![[2.1/6.jpg]]
+![[Picture/2.1/6.jpg]]
 
 在单位元附近写无穷小变换：
 
@@ -234,7 +234,7 @@ $$
 \end{aligned}
 $$
 
-![[2.1/7.jpg]]
+![[Picture/2.1/7.jpg]]
 
 洛伦兹条件给出
 
@@ -250,7 +250,7 @@ $$
 \boxed{\Omega_{\mu\rho}=-\Omega_{\rho\mu}}.
 $$
 
-![[2.1/8.jpg]]
+![[Picture/2.1/8.jpg]]
 
 因此 $\Omega_{\mu\nu}$ 是一个 $4\times4$ 的反对称矩阵，只有
 
@@ -278,7 +278,7 @@ $$
 
 ## 板书整理
 
-![[2.1/9.jpg]]
+![[Picture/2.1/9.jpg]]
 
 ### Improper transformations
 
@@ -312,7 +312,7 @@ $$
 
 其中 $C^{\mu}$ 是 constant vector。
 
-![[2.1/10.jpg]]
+![[Picture/2.1/10.jpg]]
 
 ### Lorentz fields
 
@@ -353,7 +353,7 @@ $$
 
 ## 板书整理
 
-![[2.1/11.jpg]]
+![[Picture/2.1/11.jpg]]
 
 板书定义 $V^{\mu}$ 与 $W_{\mu}$ 的 contraction：
 
@@ -378,7 +378,7 @@ $$
 
 因此一次上、下指标收缩得到 Lorentz scalar。
 
-![[2.1/12.jpg]]
+![[Picture/2.1/12.jpg]]
 
 ### 四动量和标量梯度
 
@@ -439,7 +439,7 @@ $$
 
 ## 板书整理
 
-![[2.1/13.jpg]]
+![[Picture/2.1/13.jpg]]
 
 板书给出 Klein–Gordon 方程的例子：
 
@@ -478,7 +478,7 @@ D'^{\mu\nu}{}_{\rho\sigma\tau}(x')
 D^{\alpha\beta}{}_{\gamma\delta\epsilon}(x).
 $$
 
-![[2.1/14.jpg]]
+![[Picture/2.1/14.jpg]]
 
 ### Faraday tensor
 
@@ -530,7 +530,7 @@ $$
 
 ## 板书整理
 
-![[2.1/15.jpg]]
+![[Picture/2.1/15.jpg]]
 
 ### Relativity 的公设
 
@@ -548,7 +548,7 @@ $$
 
 关联一个算符 $U(\Lambda)$。
 
-![[2.1/16.jpg]]
+![[Picture/2.1/16.jpg]]
 
 表示满足群乘法：
 
