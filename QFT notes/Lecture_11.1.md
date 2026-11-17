@@ -1,4 +1,4 @@
-﻿---
+---
 title: "量子场论导论 Lecture 11.1"
 date: null
 tags:
@@ -484,7 +484,7 @@ $$
 $$
 \sigma
 \simeq
-\frac{2g^4}{1152\pi m^6}.
+\frac{25g^4}{1152\pi m^6}.
 $$
 
 板书随后写出超相对论极限条件
